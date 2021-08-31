@@ -3,12 +3,12 @@
 
 My name is **Federico Foligna** from **Buenos Aires, Argentina**.
 
-def federico\():
-    pronouns = \["He", "Él"]
-    lang = \["Python", "HTML5", CSS3", "JavaScript"]
-    os = "Linux"
-    tools = \["MySQL", "VSCode", "GitHub"]
-    techCommunity = \{"Discord": "Desarrolladores Jr con y sin experiencia"}
+def federico\():<br>
+    pronouns = \["He", "Él"]<br>
+    lang = \["Python", "HTML5", CSS3", "JavaScript"]<br>
+    os = "Linux"<br>
+    tools = \["MySQL", "VSCode", "GitHub"]<br>
+    techCommunity = \{"Discord": "Desarrolladores Jr con y sin experiencia"}<br>
 
 Skills: **Python / HTML5 / CSS3 / JavaScript / MySQL / Linux**
 
