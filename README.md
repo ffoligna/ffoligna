@@ -1,21 +1,4 @@
-#### **Fullstack Python Developer**
-![**Fullstack Python Developer**](https://github.com/ffoligna/images/blob/main/AvatarSaludo.png)
 
-My name is **Federico Foligna** from **Buenos Aires, Argentina**.
-
-def federico\():<br>
-    pronouns = \["He", "Él"]<br>
-    lang = \["Python", "HTML5", CSS3", "JavaScript"]<br>
-    os = "Linux"<br>
-    tools = \["MySQL", "VSCode", "GitHub"]<br>
-    techCommunity = \{"Discord": "Desarrolladores Jr con y sin experiencia"}<br>
-
-Skills: **Python / HTML5 / CSS3 / JavaScript / MySQL / Linux**
-
-- 🔭 I’m currently working on Text Based Games 
-- 🌱 I’m currently learning Python (intermediate-advanced) 
-- 💬 Ask me about anything you want to know about me 
-- 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/federico-foligna/)) 
 
 
 <!--
