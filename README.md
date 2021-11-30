@@ -1,8 +1,15 @@
-#### **Fullstack Python Developer**
-My name is **Federico Foligna** from **Buenos Aires, Argentina**.
+#### **Fullstack Backend Python Developer**
+My name is **Federico Foligna** &#x264A; from **Buenos Aires, Argentina** 🇦🇷
 
-![Fullstack Python Developer](https://github.com/ffoligna/images/blob/main/githubReadme.png)
+<!--[Fullstack Python Developer](https://github.com/ffoligna/images/blob/main/githubReadme.png)-->
+Skills:
+- Python &#128013; (Tkinter, SQLite3, Pandas, MatPlotLib, NumPy)
+- HTML5, CSS3 and JavaScript
+- MySQL &#128044;
+- Linux &#128039;
+- Spanish 🇪🇸 (native) and English 🇬🇧 (intermediate)
 
+About me:
 - 🔭 I’m currently working on Text Based Games 
 - 🌱 I’m currently learning Python (intermediate-advanced) 
 - 💬 Ask me about anything you want to know about me 
