@@ -14,7 +14,7 @@ About me:
 - 🌱 I’m currently learning Python (intermediate-advanced) 
 - 💬 Ask me about anything you want to know about me 
 - 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/federico-foligna/))  
-
+- ⚡ Fun fact: I've self taught how to make websites with WordPress and Elementor
 
 
 
