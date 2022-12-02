@@ -3,6 +3,7 @@ My name is **Federico Foligna** &#x264A; from **Buenos Aires, Argentina** 🇦�
 
 <!--[Fullstack Python Developer](https://github.com/ffoligna/images/blob/main/githubReadme.png)-->
 Skills:
+- Unity and C# (Video Games Development)
 - Python &#128013; (Tkinter, SQLite3, Pandas, MatPlotLib, NumPy)
 - HTML5, CSS3 and JavaScript
 - MySQL &#128044;
@@ -10,7 +11,7 @@ Skills:
 - Spanish 🇪🇸 (native) and English 🇬🇧 (intermediate)
 
 About me:
-- 🔭 I’m currently working on Text Based Games 
+- 🔭 I’m currently working on Video Games with Unity and C# 
 - 🌱 I’m currently learning Python (intermediate-advanced) 
 - 💬 Ask me about anything you want to know about me 
 - 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/federico-foligna/))  
